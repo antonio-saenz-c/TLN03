@@ -1,0 +1,116 @@
+---
+C1:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.17
+C2:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.14
+C3:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.13
+C4:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.16
+C5:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.10
+CPE-BRANCH:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.2
+CPE-HQ:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.5
+M1:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.12
+M2:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.20
+M3:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.4
+M4:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.21
+SW-PISO1:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.19
+SW-PISO2:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.9
+SW-R-PISO1:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.18
+SW-R-PISO2:
+    username: admin
+    password: admin
+    platform: cisco_iol
+    hostname: 172.20.20.15
+PC1-R-VLAN5:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.8
+PC1-VLAN10:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.22
+PC2-R-VLAN5:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.11
+PC2-VLAN10:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.7
+PC3-R-VLAN15:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.24
+PC3-VLAN20:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.6
+PC4-R-VLAN15:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.23
+PC4-VLAN20:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.3
